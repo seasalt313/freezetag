@@ -1,0 +1,24 @@
+body {
+  margin: 50px;
+  padding: 20px;
+  background-color: #394053;
+  border: 10px double #4E4A59;
+  color: #C1BDB3;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+
+}
+
+h1 {
+  text-align: center;
+  color: #C5AFA4;
+}
+
+p {
+  color: #6E6362;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
